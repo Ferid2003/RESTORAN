@@ -1,1 +1,1 @@
-Created using pure html and css. Resizing don't work
+Created using pure html and css. Adaptive
